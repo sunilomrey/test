@@ -6,6 +6,7 @@ echo "hello";?>
     @import 'style.css';
 </style>
 <?php
+echo "test";
 $search = "mumbai";
 $url = 'http://en.wikipedia.org/w/api.php?action=parse&page='.$search.'&format=json&prop=text&section=0';
 $ch = curl_init($url);

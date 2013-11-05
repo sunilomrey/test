@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <?echo "hello";?>
+=======
+>>>>>>> eff7572d999dedd3ed0aee2f694e6a514743a3a5
 <style>
     @import 'style.css';
 </style>
