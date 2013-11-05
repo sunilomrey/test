@@ -1,7 +1,4 @@
-<?
-echo "hi";
-echo "hello";?>
-
+<?echo "hello";?>
 <style>
     @import 'style.css';
 </style>
