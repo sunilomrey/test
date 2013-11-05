@@ -17,6 +17,6 @@
 		</div>
 	</form>
 
-</script>
-</body>
+
+</body> <p> this is test</p>
 </html>
